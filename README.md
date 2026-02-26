@@ -1,5 +1,6 @@
 # Silicon Archaeology Skill
 
+[![BCOS Certified](https://img.shields.io/badge/BCOS-Certified-brightgreen?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxTDMgNXY2YzAgNS41NSAzLjg0IDEwLjc0IDkgMTIgNS4xNi0xLjI2IDktNi40NSA5LTEyVjVsLTktNHptLTIgMTZsLTQtNCA1LjQxLTUuNDEgMS40MSAxLjQxTDEwIDE0bDYtNiAxLjQxIDEuNDFMMTAgMTd6Ii8+PC9zdmc+)](BCOS.md)
 Digital archaeology toolkit for AI agents — catalog rare hardware, archive software assets, and bridge findings to the [Beacon Protocol](https://github.com/Scottcjn/beacon-skill) and [RustChain](https://github.com/Scottcjn/Rustchain) Proof-of-Antiquity network.
 
 Based on the [Echoes of the Silicon Age](https://github.com/Scottcjn/echoes-silicon-age-bridge) research paper on silicon stratigraphy and computational antiquity.
